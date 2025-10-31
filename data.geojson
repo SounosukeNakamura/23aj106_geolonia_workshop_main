@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type":"Feature",
+      "properties": { "name":"サンプル1", "desc":"説明1"},
+      "geometry": { "type":"Point", "coordinates":[134.036,34.342] }
+    },
+    { "type":"Feature",
+      "properties": { "name":"サンプル2", "desc":"説明2"},
+      "geometry": { "type":"Point", "coordinates":[134.030,34.350] }
+    }
+  ]
+=======
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type":"Feature",
+      "properties": { "name":"サンプル1", "desc":"説明1"},
+      "geometry": { "type":"Point", "coordinates":[134.036,34.342] }
+    },
+    { "type":"Feature",
+      "properties": { "name":"サンプル2", "desc":"説明2"},
+      "geometry": { "type":"Point", "coordinates":[134.030,34.350] }
+    }
+  ]
+>>>>>>> 443221cc5b88e6143f7dadd2fed9b26a685459d0
+}
